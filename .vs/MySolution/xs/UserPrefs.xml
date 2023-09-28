@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{6AC90CF9-82B7-4890-80C4-291865E7324B}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyXUnitTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApp2/Program.cs">
+    <Files>
+      <File FileName="MyXUnitTests/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="ConsoleApp2/Program.cs" Line="6" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MySolution" expanded="True">
+            <Node name="ConsoleApp2" expanded="True" selected="True" />
+            <Node name="MyLibrary" expanded="True" />
+            <Node name="MyXUnitTests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MySolution" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
